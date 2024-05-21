@@ -12,9 +12,9 @@ Usage:
 
 Example:
 *$ python PKA.py*
-Welcome to Python Knows Anything. Please ask a question (in one word).
-> Python
-Python is an interpreted, high-level, general-purpose programming language.
+
+![Screenshot 2024-05-21 044216](https://github.com/N1GOs/Python-knows-anything/assets/122281583/841f96b7-cdf8-44ce-b1d5-c9bc9ef0ecee)
+
 
 Features
 Retrieves information from Wikipedia.
