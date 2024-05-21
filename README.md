@@ -3,7 +3,9 @@ Python Knows Anything is a simple command-line utility that leverages Wikipedia 
 Installation:
 Make sure you have Python installed on your system.
 Install the required dependencies using pip:
+
 *pip install wikipedia*
+
 *pip install colorama*
 
 Usage:
